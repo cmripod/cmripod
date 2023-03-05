@@ -1,16 +1,26 @@
-### Hi there 👋
+# Carlos Rodriguez
+## _cmripod_
 
-<!--
-**cmripod/cmripod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Cursando actualmente - Bootcamp Full.stack JavaScript Development en **Undefined Academy** -
 
-Here are some ideas to get you started:
+#### Viejo programador con Delphi 😏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### ejercicio
+
+## Comandos Terminal
+
+| Command | Description                                                                              |
+| ------- | ---------------------------------------------------------------------------------------- |
+| cd      | Chage Directory                                                                          |
+| ls      | list files from current directory                                                        |
+| mkdir   | Create a new directory                                                                   |
+| pwd     | Show the current directory                                                               |
+| cat     | The grep command searches through the file, looking for matches to the pattern specified |
+
+## Comandos Alias
+| Alias            | Description                              |
+| ---------------- |------------------------------------------|
+| alias cl="clear" | Clears the terminal                      |
+| alias md=mkdir   | (maker directory) Create a new directory |
+---
