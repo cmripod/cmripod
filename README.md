@@ -1,5 +1,5 @@
 # Carlos Rodriguez
-## _cmripod_
+[Github Profile](https://github.com/cmripod/cmripod)
 
 #### Cursando actualmente - Bootcamp Full-stack JavaScript Development en **Undefined Academy** -
 
